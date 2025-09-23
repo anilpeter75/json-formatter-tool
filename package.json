@@ -1,0 +1,17 @@
+{
+  "name": "json-formatter-tool",
+  "version": "1.0.0",
+  "description": "A fast and privacy-focused JSON formatter, validator, and beautifier.",
+  "main": "index.js",
+  "keywords": ["json", "formatter", "validator", "beautifier", "online tool"],
+  "author": "Anil Peter",
+  "license": "MIT",
+  "homepage": "https://formatjsononline.com",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/anilpeter75/json-formatter-tool"
+  },
+  "bugs": {
+    "url": "https://formatjsononline.com"
+  }
+}
