@@ -20,7 +20,7 @@ Easily format, validate, and beautify JSON data in Node.js or directly in your b
 - [Mock API](https://formatjsononline.com/dummy-api)
 
 ---
-CDN Link: https://cdn.jsdelivr.net/npm/json-formatter-tool
+CDN Link: https://www.jsdelivr.com/package/npm/json-formatter-tool
 
 ## 🚀 Installation
 ```bash
